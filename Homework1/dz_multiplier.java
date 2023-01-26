@@ -1,5 +1,6 @@
 // Написать программу вычисления n-ого треугольного числа.
 
+package Homework1;
 import java.util.Scanner;
 public class dz_multiplier {
     private static Scanner input = new Scanner(System.in);
