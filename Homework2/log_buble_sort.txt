@@ -1,0 +1,12 @@
+янв. 31, 2023 3:42:57 PM Homework2.task_2_buble_sort createLogInfo
+INFO: Элемент 29 изменил позицию на 2
+янв. 31, 2023 3:42:57 PM Homework2.task_2_buble_sort createLogInfo
+INFO: Элемент 29 изменил позицию на 3
+янв. 31, 2023 3:42:57 PM Homework2.task_2_buble_sort createLogInfo
+INFO: Элемент 25 изменил позицию на 6
+янв. 31, 2023 3:42:57 PM Homework2.task_2_buble_sort createLogInfo
+INFO: Элемент 29 изменил позицию на 4
+янв. 31, 2023 3:42:57 PM Homework2.task_2_buble_sort createLogInfo
+INFO: Элемент 29 изменил позицию на 5
+янв. 31, 2023 3:42:57 PM Homework2.task_2_buble_sort createLogInfo
+INFO: Элемент 29 изменил позицию на 6
