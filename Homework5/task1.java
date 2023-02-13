@@ -27,7 +27,7 @@ public class task1 {
         System.out.println(bookFone);
     }
 
-    // Добавить или изменить или изменить данные
+    // Добавить или изменить данные
     private static void addBookFone(Map<String, String> dict, String name, String number){
         dict.put(name, number);
     }
